@@ -1,4 +1,4 @@
-# WaterQualityAndProbability_
+# WaterQualityAndProbability
 # About Dataset
 
 This dataset contains water quality measurements and assessments related to potability, which is the suitability of water for human consumption. 
