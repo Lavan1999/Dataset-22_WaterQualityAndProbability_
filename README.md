@@ -1,4 +1,5 @@
 # WaterQualityAndProbability
+
 ## About Dataset
 
 This dataset contains water quality measurements and assessments related to potability, which is the suitability of water for human consumption. 
@@ -29,4 +30,3 @@ This dataset is suitable for a supervised binary classification task, where mach
 
 ## Data Usage:
 This dataset is valuable for water quality assessment, water treatment planning, and ensuring the safety of drinking water supplies. It can be utilized by water treatment plants, environmental agencies, and researchers to make data-driven decisions regarding water quality and potability.
-
